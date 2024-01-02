@@ -1,0 +1,38 @@
+.
+|   favicon.ico
+|   index.html
+|   style.css
+|   temp.html
+|   template.txt
+|   tree.txt
+|   
++---language
+|       long_words.html
+|       
++---mathematics
+|   +---applied_mathematics
+|   \---pure_mathematics
+|       +---algebra
+|       +---analysis
+|       +---geometry
+|       \---proof
+|               godel's_incompleteness_theorem.html
+|               
++---philosophy
+|   +---ethics
+|   \---philosophy_of_science
+|           nonlocality.html
+|           
+\---science
+    +---chemistory
+    \---physics
+        +---atomic
+        |       tachyon.html
+        |       
+        +---electric
+        +---engineering
+        |       superluminal_communication.html
+        |       
+        \---quantum
+                quantum_field_theory.html
+                

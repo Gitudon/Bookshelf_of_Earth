@@ -1,0 +1,10 @@
+{
+    "superluminal_communication":{
+        "name":"超光速通信",
+        "pass":"Bookshelf_of_Earth/src/science/physics/engineering/superluminal_communication.html"
+    },
+    "quantum_field_theory":{
+        "name":"場の量子論",
+        "pass":"Bookshelf_of_Earth/src/science/physics/quantum/quantum_field_theory.html"
+    }
+}

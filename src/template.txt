@@ -35,6 +35,10 @@
     <p id="fn"><a href="#r">[]</a></p> -->
 </section>
 <footer>
+<h2>関連項目</h2>
+<ul>
+<li>
+</ul>
 
 </footer>
 </body>
