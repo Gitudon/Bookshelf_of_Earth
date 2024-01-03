@@ -1,0 +1,47 @@
+h1{
+    color: #000000;
+    margin-top: 0.5em;
+}
+body{
+    margin: 0px ; display: grid; width: 100vw; height: 100vh;
+    grid-template-areas: "a a" "b b" "c c";
+    grid-template-columns: 14em 1fr;
+    grid-template-rows: 5em 1fr 10em }
+header {
+    grid-area: a;
+    background: #f7f7f7;
+    padding: 0.1em;
+    text-align: center;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+section {
+    grid-area: b;
+    background: #f7f7f7;
+    padding: 1em;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    color:#000000;
+}
+footer{
+    padding: 1em;
+    grid-area: c;
+    background-color: #f7f7f7;
+    text-align: left;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    list-style-type: none;
+}
+h2{
+    margin-top: 0.1em;
+}
+.wakusen{
+    border: 1px solid black;
+}
+.spacer {
+    height: 5px;
+}
